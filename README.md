@@ -26,5 +26,7 @@
                 .build()
                 .show(v);
  ```
-引用方法：
-[![](https://jitpack.io/v/chenchongyu/TipView.svg)](https://jitpack.io/#chenchongyu/TipView)
+一句话引用：
+```
+compile 'com.github.chenchongyu:TipView:v0.0.1'
+```
