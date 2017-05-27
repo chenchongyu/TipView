@@ -1,4 +1,5 @@
 # TipView
+![image](https://github.com/chenchongyu/TipView/blob/master/capture/WechatIMG1.jpeg)
 简单好用、功能强大的Android提示控件。
 调用示例如下，更多示例可以查看demo
 ```
